@@ -2,6 +2,7 @@
 
 This project is an exploration of the dynamics of the double pendulum system using Python. It covers theoretical derivations, numerical simulations, and visualizations of this fascinating system.
 
+If you want to skip all of the boring stuff, I have the app deployed over yonder on Streamlit [here](https://conors-double-pendulum.streamlit.app/):
 ## Overview
 
 The double pendulum consists of two pendulums connected end-to-end. While the system appears simple, it exhibits chaotic dynamics, where small differences in initial conditions result in vastly different outcomes. This makes it a compelling subject for both theoretical study and numerical simulation.
