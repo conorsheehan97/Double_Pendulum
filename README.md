@@ -2,14 +2,6 @@
 
 This project is an exploration of the dynamics of the double pendulum system using Python. It covers theoretical derivations, numerical simulations, and visualizations of this fascinating system.
 
-## Future Improvements
-
-1. **Extend the code to include damping and external driving forces**: Adding damping forces and external forces (e.g., driven motion) will make the simulation more realistic and enable the study of energy dissipation.
-2. **Explore the phase space of the system to analyze chaotic attractors**: Investigating the system's phase space can help to understand its chaotic nature more deeply.
-3. **Add a graphical user interface (GUI) for parameter customization and real-time visualization**: This will allow users to interactively adjust the parameters, such as initial angles, lengths, and masses, and see the results in real-time.
-4. **Implement 3D visualizations and trajectory plots for better insights into the system's behavior**: Enhancing the visualization with 3D plots will give users a more comprehensive understanding of the system's motion.
-5. **Calculate and visualize Lyapunov exponents to measure the degree of chaos**: Lyapunov exponents are used to quantify the chaotic behavior of dynamic systems, and visualizing them will offer more insights into the system's sensitivity to initial conditions.
-
 ## Overview
 
 The double pendulum consists of two pendulums connected end-to-end. While the system appears simple, it exhibits chaotic dynamics, where small differences in initial conditions result in vastly different outcomes. This makes it a compelling subject for both theoretical study and numerical simulation.
@@ -47,6 +39,7 @@ The system's chaotic nature arises from the dependence on initial conditions. Ev
 
 ## Acknowledgments
 
-This project was inspired by the beauty and complexity of chaotic systems. Special thanks to:
+Special thanks to:
 
 - Sir William Rowan Hamilton (Irishman) for foundational work in mechanics.
+- Everyone online who had the derivation already done so I could act like I did it.
